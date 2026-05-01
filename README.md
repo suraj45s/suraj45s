@@ -1,4 +1,4 @@
-![logo]([https://github.com/suraj45s/new/blob/main/banner.jpeg](https://github.com/suraj45s/suraj45s/blob/main/banner.jpeg))
+![logo](https://github.com/suraj45s/suraj45s/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Suraj Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
